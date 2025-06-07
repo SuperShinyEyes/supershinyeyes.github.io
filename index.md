@@ -264,7 +264,7 @@ A simple response goes a long way in showing that you care.
 Everything we do in a company is team work. That's why it's essential for everyone to grow together.
 As your company and product evolve, your team—and each person on it—needs to adapt. Markets shift, strategies change, and people enter new phases of life and career.
 
-### Growth from Zero to One, and Beyond
+### Zero to One, and Beyond
 If you're building from **zero to one**, growth must be intentional and timely. Everything changes rapidly: the team, the market, the product, and the tech stack. You need behavioral evolution to match.
 
 Once you're beyond **one**, the way you communicate must change too. At **zero**, a tight-knit 10-person team might joke around freely in Slack. After **one**, with 50 new people across multiple teams, that same tone can confuse and isolate others. The culture needs to scale along with the company. 
