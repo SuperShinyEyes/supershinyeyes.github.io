@@ -124,6 +124,8 @@ Most good stories follow familiar patterns: the three-act structure in the West,
 - [HBR Guide to Better Business Writing](https://www.goodreads.com/book/show/13586939-hbr-guide-to-better-business-writing)
 - [Google Technical Writing Courses](https://developers.google.com/tech-writing)
 - [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web)
+- [HBR: What's Your Story?](https://hbr.org/2005/01/whats-your-story)
+- [HBR: How to Lead Your Fellow Rainmakers](https://hbr.org/2019/03/how-to-lead-your-fellow-rainmakers)
 
 
 
@@ -144,6 +146,7 @@ After the new hire's trial period, remember to thank the reference personally. I
 ### Materials
 - [Stanford GSB: Phil Knight, Co-founder and Chairman Emeritus at Nike](https://youtu.be/OHTosaWWKvg)
 - [Stanford GSB: Vinod Khosla, Co-founder at Sun Microsystems](https://youtu.be/HZcXup7p5-8)
+- [HBR: How to Succeed Quickly in a New Role](https://hbr.org/2021/11/how-to-succeed-quickly-in-a-new-role)
 
 
 
@@ -178,11 +181,15 @@ I've worked on or led several R&D projects. Some succeeded, others didn't. Over 
 - [YC Startup School: How to Manage (Ben Horowitz)](https://youtu.be/uVhTvQXfibU)
 - [YC Startup School: How to Run a User Interview (Emmett Shear)](https://youtu.be/qAws7eXItMk?si=x_WzxNk2XGQyO5Dw)
 - [Nielsen Norman Group: UX Training](https://www.nngroup.com)
-- [HBR: Strategies for Learning from Failure](https://hbr.org/2011/04/strategies-for-learning-from-failure)
 - [Stanford GSB: Ruth Porat, CFO at Alphabet and Google](https://youtu.be/tq1kvyC-6ek)
 - [Stanford: Jen-Hsun Huang: Stanford student and Entrepreneur, co-founder and CEO of NVIDIA](https://youtu.be/Xn1EsFe7snQ)
 - [HBR Guide to Making Every Meeting Matter](https://www.goodreads.com/book/show/29502590-hbr-guide-to-making-every-meeting-matter)
 - [YC Startup School: How to Operate (Keith Rabois)](https://youtu.be/6fQHLK1aIBs)
+- [HBR: Strategies for Learning from Failure](https://hbr.org/2011/04/strategies-for-learning-from-failure)
+- [HBR: Why Leaders Don't Learn from Success](https://hbr.org/2011/04/why-leaders-dont-learn-from-success)
+- [HBR: Eliminate Strategic Overload](https://hbr.org/2021/05/eliminate-strategic-overload)
+
+
 
 <!-- 
 ## Organizing Yourself
@@ -306,3 +313,17 @@ Kindness isn't about avoiding hard conversations. It's about having them—at th
 - [Book: Creativity, Inc. by Ed Catmull](https://www.goodreads.com/book/show/18077903-creativity-inc)
 - [YC Startup School: Team and Execution by Sam Altman](https://youtu.be/CVfnkM44Urs)
 - [YouTube: Model Scout Decides Who's Most Attractive](https://youtu.be/fIBIGRNH734?si=dkKb1fqPFFaKcrLV)
+- [HBR: The Power of Self-Compassion](https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion)
+- [HBR: You Made a Big Mistake. What Should You Do?](https://hbr.org/2021/11/you-made-a-big-mistake-at-work-what-should-you-do)
+- [HBR: When We Learn from Failure (and When We Don't)](https://hbr.org/2014/05/when-we-learn-from-failure-and-when-we-dont)
+- [HBR: The Hidden Toll of Microstress](https://hbr.org/2023/02/the-hidden-toll-of-microstress)
+- [HBR: Collaboration Without Burnout](https://hbr.org/2018/07/collaboration-without-burnout)
+- [HBR: Communicating Effectively When You're Running on Empathy](https://hbr.org/podcast/2023/07/communicating-effectively-when-youre-running-on-empty)
+- [HBR: Managing the High-Intensity Workplace](https://hbr.org/2016/06/managing-the-high-intensity-workplace)
+- [HBR: Don't Let Passion Lead to Burnout on Your Team](https://hbr.org/2023/05/dont-let-passion-lead-to-burnout-on-your-team)
+- [HBR: When Your Employee Tells You They're Burned Out](https://hbr.org/2023/05/when-your-employee-tells-you-theyre-burned-out)
+- [HBR: Increase Your Return on Failure](https://hbr.org/2016/05/increase-your-return-on-failure)
+- [HBR: Failing by Design](https://hbr.org/2011/04/failing-by-design)
+- [HBR: The Failure-Tolerant Leader](https://hbr.org/2002/08/the-failure-tolerant-leader)
+- [HBR: Can You Handle Failure?](https://hbr.org/2011/04/managing-yourself-can-you-handle-failure)
+- [HBR: The Limits of Empathy](https://hbr.org/2016/01/the-limits-of-empathy)
