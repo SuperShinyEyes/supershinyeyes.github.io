@@ -26,7 +26,7 @@ I've led multiple teams in my tech career, and the same questions come up again 
 
 I wrote this handbook to organize my answers, so they're easier to pass on. Alongside my own thoughts, I've included the books, articles, lectures, and interviews that helped me form my thoughts. 
 
-I didn't write this handbook for strangers on the Internet. I wrote this for my friends—to help you, and to enrich our conversations. So if you have thoughts or feedback, give me a call.
+I didn't write this handbook for strangers on the Internet. I wrote this for my friends—to help you, and to enrich our conversations. 
 
 
 
