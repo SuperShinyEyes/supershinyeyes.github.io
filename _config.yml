@@ -1,10 +1,10 @@
 title: Execution Handbook # name of the site
 author: Seyoung # name of site's author
 email: seyoung # email of site's author
-url: https://riggraz.dev # root address of the site
+url: https://supershinyeyes.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Seyoung's execution handbook in the Tech industry.
 
 permalink: /:slug.html
 
