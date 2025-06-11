@@ -35,7 +35,7 @@ Before you can execute anything—at work or with friends—you need to trust. H
 
 1. **Be competent (Logic)**. Everyone trusts people who get things done. There are three elements of competency: _technical_ knowledge, _operational/practical_ knowledge, and _political_ knowledge. Balance those three every quarter.
 2. **Care about your teams (Empathy)**. What makes them excited and scared? What are their boundaries? Am I helping them getting them what they want? If you take care of this part, you will read the room better.
-3. **Let your teams experience the _real you_ (Authenticity)**. So many people aren't even aware of this part. Neither did I until my HR person said that you should share your feelings and emotions with your colleagues. Otherwise people can't trust you as a person. This also means that you need to be willing to openly share your vulnerabilities. This takes time and requires good culture in your organization. If you understand your teams well, you know how much open you can be with your teams about your feelings and emotions.
+3. **Let your teams experience the _real you_ (Authenticity)**. So many people aren't even aware of this part. I didn't either until my mentor said that you should share your feelings and emotions with your colleagues. Otherwise people can't trust you as a person. This also means that you need to be willing to openly share your vulnerabilities. This takes time and requires good culture in your organization. If you understand your teams well, you know how much open you can be with your teams about your feelings and emotions.
 
 ### Materials
 - [Book: Beyond Entrepreneurship](https://www.goodreads.com/book/show/55270310-be-2-0-beyond-entrepreneurship-2-0)
