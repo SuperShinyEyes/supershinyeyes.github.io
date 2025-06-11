@@ -50,10 +50,10 @@ Before you can execute anything—at work or with friends—you need to trust. H
 
 
 ## Roadmapping
-I like to update the roadmap before every release. A release cycle can be quarterly or monthly. I keep a 12-month rolling window, so we always know where we should be in 12 months. It's crucial that you inform your stakeholders that anything beyond 6 months will likely change. In my experience, it always does.
+I like to update the roadmap before every release. Depending on the product and company, release cycles can be daily, weekly, monthly, or quarterly. I keep a 12-month rolling window, so we always know where we should be in 12 months. It's crucial that you inform your stakeholders that anything beyond 6 months will likely change. In my experience, it always does.
 
 Here's how I build the roadmap with my stakeholders:
-1. **Start with the customers**. What are their pain points? Why are those painful? Why do those exist? Why do they matter? Look for patterns.
+1. **Start with the customers**. What are their pain points? Why are those painful? Why do those exist? Why do they matter? How much would customers be willing to pay to address those pain points? Look for patterns.
 2. **Listen to your stakeholders**. Talk to Engineering, Product, Design, Sales, Customer Success, and the Board. What do the metrics and indicators say? What have we learned from using the products ourselves?
 3. **Understand your market**. What trends are shaping your industry? How have your customers—and their customers—evolved? What drives decision-makers? 
 4. **Know your competition**.
@@ -75,10 +75,10 @@ Here's how I build the roadmap with my stakeholders:
 ## Storytelling
 Storytelling may sound outside your domain—but it is essential in every aspect of our work and lives. Engineers, designers, salespeople, lawyers, managers, recruiters, interviewees, parents, and kids all use it. It's especially critical in leadership, product management, R&D, and sales.
 
-The good news? Everyone knows what good a story _feels_ like. That means anyone can learn to tell one. 
+The good news? Everyone knows what a good story _feels_ like. That means anyone can learn to tell one. 
 
 ### Why storytelling matters
-We don't exist alone. Professionally, we have teams, partners, and customers. Personally, we share our lives with friends and families. 
+We don't exist alone. In our professional lives, we have teams, partners, and customers. In our personal lives, we share our lives with friends and family. 
 To get what we want—approval for an idea, a promotion, a sale, an investment, even a relationship—we need to persuade. That means competing for attention, time, and resources, often against other people's priorities.
 
 So how do you convince someone to choose you or your idea? You tell a compelling story that combines the three core elements: logic, people, and emotion,
@@ -91,11 +91,11 @@ Here's how I define it:
 - A story is the content—the arc, characters, and message.
 - Storytelling is the full experience your audience goes through: what they expect, how they feel during it, and how they react afterward.
 
-The same story can feel totally different depending on time, place, occasion, and a speaker. Great storytellers control the whole journey.
+The same story can feel completely different depending on the time, place, occasion, or speaker. Great storytellers control the entire journey.
 
 ### How to tell a story?
 Here is my framework:
-1. Who is the audience? What do they care about? What context might they be missing? Different groups bring different assumptioins.
+1. Who is the audience? What do they care about? What context might they be missing? Different groups bring different assumptions.
 2. Why this story? Why should people care about it? What's at stake?
 3. What is the heart of the story? What emotion do you want them to feel? What reactions do you want them to do afterward?
 4. How can I tell this story authentically? Be yourself. Don't try to be someone else.
@@ -132,8 +132,8 @@ Most good stories follow familiar patterns: the three-act structure in the West,
 ## Hiring
 ### AAA Framework
 When hiring, I look for three things: **Ability, Aptitude, and Attitude**.
-- Ability: Skills gained through learning and experience. This is the easiest assess—look at their past work or use tests to measure it. 
-- Aptitude: Natural talents or potential to grow. _"Will this person thrive in this field? Can they keep up as things change? Do their values fit this team?"_. If you're experienced in the same area, this can be obvious. If not, review their portfolio and ask pointed questions to test depth and adaptability.
+- Ability: The skills gained through learning and experience. This is the easiest element to assess—review past work or use tests to measure it. 
+- Aptitude: Natural talent or potential to grow. _"Will this person thrive in this field? Can they keep up as things change? Do their values fit this team?"_. If you're experienced in the same area, this can be obvious. If not, review their portfolio and ask pointed questions to test depth and adaptability.
 - Attitude: Passion, focus, and commitment over time. Ask: _"Will we enjoy working with them? Will they stick through hard times? Will we grow together?"_ This one is the hardest to judge. Past experience and references help, but people change. Someone who gave their all in one job might not do the same in the next. Attitude is especially hard to judge if they come from a big tech company. I've accepted that I can't fully verify attitude. At some point, I have to trust my instinct and the candidate.
 
 ### Talk to the reference
@@ -251,7 +251,7 @@ The best way to empathize with your customers is to _be_ one. Use your product i
 Internal users give fast, honest feedback. Encourage them to improve documentation too—it builds shared ownership.
 
 ### 3. Acknowledge and act on customer feedback. 
-As you grow, you'll get more feedback than you can act on. That's normal. But ignoring it? That feels disrespectful. Think about how it feels when a friend doesn't reply to your message. At minimum, respond with something like: 
+As you grow, you'll get more feedback than you can act on. That's normal. But ignoring it? That feels disrespectful. Think about how it feels when a colleague doesn't reply to your message. At minimum, respond with something like: 
 
 _"Thank you for your feedback. We understand your problem/reproduced the bug. We added it to our backlog. We'll keep you updated."_
 
@@ -278,7 +278,7 @@ Before you do anything as a leader, check your mindset.
 
 In tech, we often call people managers _line managers_. They approve PTO, submit promotions, and run one-on-ones. I prefer the term **Talent Management**, used in the entertainment industry for managing stars. It reminds me that my teammates are not my underlings. They're my clients. My job is to empower them.
 
-Great engineers and designers are rare. Great engineers and designers who can proactively grow with a team is even rarer. If you're lucky enough to have that kind of team, treat them the way a talent manager would treat Lady Gaga or Tom Cruise. As a leader, my proudest moments come when I've helped create a safe environment where great talents can work toward a shared vision together with autonomy.
+Great engineers and designers are rare. Great engineers and designers who can proactively grow with a team is even rarer. If you're lucky enough to have that kind of team, serve them the way a talent manager would serve Celine Dion or Martin Scorsese. As a leader, my proudest moments come when I've helped create a safe environment where great talents can work toward a shared vision together with autonomy.
 
 I have seen some managers believe they _gave_ promotions. That mindset feels backwards. When my team member gets promoted, _I thank them_ for their impact and their growth. Their success validates the investment I made in them. Every win on your team becomes part of your legacy. Celebrate it together.
 
@@ -301,7 +301,7 @@ I still find feedback hard—especially when I don't work closely with someone. 
 
 This is very true. 
 
-A professional team isn't a families or a group of friends. It exists for a purpose. People come together to build something great, make an impact, and succeed. 
+A professional team isn't a family or a group of friends. It exists for a purpose. People come together to build something great, make an impact, and succeed. 
 
 As a leader, it's your job to create a safe environment—but also to _protect_ it. That means stepping in when someone's behavior or performance starts to undermine the team. Waiting too long, or avoiding the discomfort, does a disservice to everyone. It erodes trust.
 
