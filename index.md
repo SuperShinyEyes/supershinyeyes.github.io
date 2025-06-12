@@ -278,7 +278,7 @@ Before you do anything as a leader, check your mindset.
 
 In tech, we often call people managers _line managers_. They approve PTO, submit promotions, and run one-on-ones. I prefer the term **Talent Management**, used in the entertainment industry for managing stars. It reminds me that my teammates are not my underlings. They're my clients. My job is to empower them.
 
-Great engineers and designers are rare. Great engineers and designers who can proactively grow with a team is even rarer. If you're lucky enough to have that kind of team, serve them the way a talent manager would serve Celine Dion or Martin Scorsese. As a leader, my proudest moments come when I've helped create a safe environment where great talents can work toward a shared vision together with autonomy.
+Great engineers and designers are rare. Great engineers and designers who can proactively grow with a team is even rarer. If you're lucky enough to have that kind of team, serve them the way a talent manager would serve Ryan Gosling or Martin Scorsese. As a leader, my proudest moments come when I've helped create a safe environment where great talents can work toward a shared vision together with autonomy.
 
 I have seen some managers believe they _gave_ promotions. That mindset feels backwards. When my team member gets promoted, _I thank them_ for their impact and their growth. Their success validates the investment I made in them. Every win on your team becomes part of your legacy. Celebrate it together.
 
